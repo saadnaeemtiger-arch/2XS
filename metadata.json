@@ -1,0 +1,6 @@
+{
+  "name": "CakieBakie Bakery",
+  "description": "A modern, elegant, and premium artisan bakery website showcasing luxury cakes, pastries, cookies, and custom designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
